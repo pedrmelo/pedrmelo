@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro Montes Melo 👋
 
-Engenheiro Mecatrônico pela **UFSJ (Universidade Federal de São João del-Rei)**, com interesse em visão computacional, aprendizado de máquina e sistemas inteligentes. Gosto de resolver problemas reais com tecnologia — da modelagem ao código.
+Engenheiro Mecatrônico pela **UFSJ (Universidade Federal de São João del-Rei)**, com interesse em visão computacional, aprendizado de máquina e sistemas inteligentes. Gosto de resolver problemas reais com tecnologia.
 
 ---
 
